@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Gomez, better known as Lestar</h1>
 <h3 align="center">Frontend / Backend Developer, Graphic Designer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilestar" alt="ilestar" /></a> </p>
-
 - 🌱 I’m currently learning **Typescript & NodeJS**
 
 - 👯 I’m looking to collaborate on [Practicas SENA](https://github.com/ConanGH-S/practicas-ctm)
@@ -22,6 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilestar&show_icons=true&locale=en&layout=compact" alt="ilestar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilestar&show_icons=true&locale=en" alt="ilestar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilestar&" alt="ilestar" /></p>
 
