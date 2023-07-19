@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Adobe Suite**
 
-- 📫 How to reach me **jggomez016@gmail.com**
+- 📫 How to reach me Mail **jggomez016@gmail.com** / Discord **ilestar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
