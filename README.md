@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on [Siscomite](https://github.com/STBenji/Siscomite)
 - 👯 I’m looking to collaborate on [Practicas SENA](https://github.com/ConanGH-S/practicas-ctm)
-- 🌱 I’m currently learning **Typescript** & **NodeJS**
+- 🌱 I’m currently learning **Vue**, **Typescript** & **NodeJS**
 - 💬 Ask me about Adobe Suite
 -📫 How to reach me jggomez016@gmail.com
 
