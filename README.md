@@ -2,9 +2,9 @@
 <h3 align="center">Frontend / Backend Developer, Graphic Designer</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on [Siscomite](https://github.com/sena-proyectos/Siscomite)
-- 👯 I’m looking to collaborate on [Practicas SENA](https://github.com/sena-proyectos/practicas-ctm)
-- 🌱 I’m currently learning **Vue**, **Typescript** & **NodeJS**
+- 🔭 I’m currently working on [Psico Agenda](https://github.com/iLestar/Psico-Agenda)
+<!-- - 👯 I’m looking to collaborate on [Practicas SENA](https://github.com/sena-proyectos/practicas-ctm) -->
+- 🌱 I’m currently learning **Astro**, **Typescript** & **NodeJS**
 - 💬 Ask me about Adobe Suite
 -📫 How to reach me jggomez016@gmail.com
 
