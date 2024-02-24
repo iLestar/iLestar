@@ -6,7 +6,7 @@
 <!-- - 👯 I’m looking to collaborate on [Practicas SENA](https://github.com/sena-proyectos/practicas-ctm) -->
 - 🌱 I’m currently learning **Astro**, **Typescript** & **NodeJS**
 - 💬 Ask me about Adobe Suite
--📫 How to reach me jggomez016@gmail.com
+- 📫 How to reach me jggomez016@gmail.com
 
 
 ## 🌐 Socials:
