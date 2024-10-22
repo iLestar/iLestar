@@ -14,13 +14,14 @@
 
 ###
 
-<p align="left">🌱 Tengo 20 años<br>💻 Actualmente Desarrollador Web<br>🔭 Quiero ser desarrollador de Videojuegos</p>
+<p align="left">🌱 Tengo 20 años<br>💻 Actualmente Desarrollador Web<br>🔭 Quiero ser desarrollador de Videojuegos<br>🧠 Aprendiendo Java</p>
 
 ###
 
 <h3 align="left">🛠 Conocimiento en:</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
